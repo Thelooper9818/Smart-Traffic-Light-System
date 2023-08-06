@@ -1,10 +1,7 @@
 /*
 ####
 IEEE Project for NAAC
-
 Smart Traffic Management System.
-
-MissMessedUp is messing up with code here :)
 ####
 */
 
