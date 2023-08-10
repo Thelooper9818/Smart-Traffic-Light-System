@@ -27,3 +27,6 @@ In prototype we have used:
 2. The inefficient traffic light switching in quad-lane system can be rectified with our project.
 3. Unnecessary man power which was a disadvantage in existing system can be eliminated with this project.
 4. Traffic lights will switch based on real time Traffic density feedback.
+
+## Author
+This Supermarket Management System is created and maintained by [Narayan Pandey](https://github.com/Thelooper9818).
